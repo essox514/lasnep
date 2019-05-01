@@ -58,9 +58,9 @@ OpenFlow
 [P4 Specification](https://p4.org/specs/)
 
 Presentations:
--[P4_16](https://www.hotchips.org/wp-content/uploads/hc_archives/hc29/HC29.20-Tutorials-Pub/HC29.20.1-P4-Soft-Net-Pub/HC29.21.100-P4-Tutorial.pdf)
--[PSA overview](https://p4.org/assets/p4-ws-2017-p4-architectures.pdf) 
--and its (specification](https://p4.org/p4-spec/docs/PSA.html) 
+- [P4_16](https://www.hotchips.org/wp-content/uploads/hc_archives/hc29/HC29.20-Tutorials-Pub/HC29.20.1-P4-Soft-Net-Pub/HC29.21.100-P4-Tutorial.pdf)
+- [PSA overview](https://p4.org/assets/p4-ws-2017-p4-architectures.pdf) 
+- and its (specification](https://p4.org/p4-spec/docs/PSA.html) 
 
 POF
 
