@@ -47,6 +47,31 @@ Graduate Course on [Networks and Mobile Systems CSCI-GA.2620-001](https://cs.nyu
 
 # Papers
 
+## Programmable Switches 
+
+### Domain Specific Language
+
+OpenFlow
+
+[P4 Orginial Paper](https://arxiv.org/pdf/1312.1719.pdf).
+
+[P4 Specification](https://p4.org/specs/)
+
+Presentations:
+*[P4_16](https://www.hotchips.org/wp-content/uploads/hc_archives/hc29/HC29.20-Tutorials-Pub/HC29.20.1-P4-Soft-Net-Pub/HC29.21.100-P4-Tutorial.pdf)
+*[PSA overview](https://p4.org/assets/p4-ws-2017-p4-architectures.pdf) 
+*and its (specification](https://p4.org/p4-spec/docs/PSA.html) 
+
+POF
+
+Clarify the differences between them. 
+
+### Domain Specific Architecture
+
+[PISA, Protocol Independant Switch Architecture](http://yuba.stanford.edu/~grg/docs/sdn-chip-sigcomm-2013.pdf)
+
+
+
 
 # Developpment Ressources 
 
@@ -54,11 +79,11 @@ Graduate Course on [Networks and Mobile Systems CSCI-GA.2620-001](https://cs.nyu
 
 Reflexion on Research 
 
-Reading a Paper
+[Reading a Paper]()
 
-Writting a Paper 
+[Writting a Paper]()
 
-Presenting a Paper
+[Presenting a Paper]()
 
 
 
