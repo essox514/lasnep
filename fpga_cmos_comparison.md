@@ -1,4 +1,4 @@
-# Title : COmparing FPGA vs. custom CMOS and the Impact on Processor Microarchitecture
+# Title : Comparing FPGA vs. custom CMOS and the Impact on Processor Microarchitecture
 
 # Conference : FPGA 2011
 
@@ -17,3 +17,14 @@ For example SRAM implemenation is really efficient in area since there is hard S
 
 
 # Opinion
+This paper is really insterested.
+Results were predictable but it is important to have written them down.
+Considering the regain of interest for FPGA today, it would be interesting to do the same work for other types of architecture.
+The paper do not address the question of reconfigurability which would have be interested, Processor implementation on FPGAs can be addapted to specific usage and some instruction can be removed considering the required ones.
+
+# Details
+We will discuss in more details of the paper here.
+
+## Building blocks analysis
+
+## Microarchitecture considerations
