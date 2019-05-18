@@ -1,12 +1,12 @@
-# Title : Comparing FPGA vs. custom CMOS and the Impact on Processor Microarchitecture
-# Conference : FPGA 2011
+## Comparing FPGA vs. custom CMOS and the Impact on Processor Microarchitecture
+### Conference : FPGA 2011
 
-# Title Quantifying the Gap Between FPGA and Custom CMOS to Aid Microarchitectural Design
-# Journal : Transcation on VLSI 2014
-extension of Comparing FPGA vs. Custom CMOS and the Impact on Processor Microarchitecture
+## Quantifying the Gap Between FPGA and Custom CMOS to Aid Microarchitectural Design
+### Journal : Transcation on VLSI 2014
+Extension of Comparing FPGA vs. Custom CMOS and the Impact on Processor Microarchitecture
 
 # Authors :
-Henry Wing, Vaughn Betz, Jonathan Rose
+### Henry Wing, Vaughn Betz, Jonathan Rose
 
 # Summary
 This paper compare processor microarchitecture implementation on FPGA and custom CMOS circuits.
