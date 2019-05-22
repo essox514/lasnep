@@ -70,6 +70,17 @@ Clarify the differences between them.
 
 [PISA, Protocol Independant Switch Architecture](http://yuba.stanford.edu/~grg/docs/sdn-chip-sigcomm-2013.pdf)
 
+### In-Network Computing
+
+Programmable switches can be used as a computing platform for distribued applications. 
+
+[A review of previous in-network computing works by the IETF COIN (Computing In the Network) group](https://tools.ietf.org/pdf/draft-he-coin-datacenter-00.pdf)
+
+Some applications offloaded on programmable switches were shown to be accelerated by up to two order of magnitude in terms of throughput, latency and power-efficiency.
+
+However, multiple researcher raised concerns about offloading distributed applications on programmable switchs. Most notably, the following questions were raised.
+1)[How programmable switches should be used (vs can be used)](https://people.eecs.berkeley.edu/~apanda/assets/papers/LoadBalancing.pdf)
+2)[Which applications can benefits from in-network computing?](https://drkp.net/papers/innetwork-hotos19.pdf)
 
 
 
