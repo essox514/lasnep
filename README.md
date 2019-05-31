@@ -42,8 +42,13 @@ Graduate Course on [Networks and Mobile Systems CSCI-GA.2620-001](https://cs.nyu
 
 ## FPGA
 
+### Associative Memory
 
-
+TCAM on FPGAs
+[Description of the TCAM architecture used by Xilinx](https://dl.acm.org/citation.cfm?id=2537867)
+Conclusion:
+- FPGA are a poor fit for TCAM emulation using the transposed RAM approach.
+- The overhead reported (measured as the memory size used divided by the entry size) ranges from 8.4x up to 65.3x.
 
 # Papers
 
