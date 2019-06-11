@@ -105,4 +105,6 @@ Reflexion on Research
 
 [Presenting a Paper](https://www.microsoft.com/en-us/research/academic-program/give-great-research-talk/)
 
+[Presentation guidelines](https://users.ece.cmu.edu/~pueschel/teaching/guides/guide-presentations.pdf)
+
 
