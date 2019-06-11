@@ -41,6 +41,7 @@ Graduate Course on [Networks and Mobile Systems CSCI-GA.2620-001](https://cs.nyu
 
 
 ## FPGA
+[Clock Domain Crossing](http://www.sunburst-design.com/papers/CummingsSNUG2008Boston_CDC.pdf) a course about clock domain crossing for bus and signal.
 
 ### Associative Memory
 
