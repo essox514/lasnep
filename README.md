@@ -93,13 +93,16 @@ However, multiple researcher raised concerns about offloading distributed applic
 
 # Graduate Students Ressources
 
-Reflexion on Research 
+Reflexion on Research
 
-[Reading a Paper]()
+[You and your research](https://www.site.uottawa.ca/~yymao/misc/Hamming_kaiser.html)
 
-[Writting a Paper]()
+[Reading a Paper](https://blizzard.cs.uwaterloo.ca/keshav/home/Papers/data/07/paper-reading.pdf)
 
-[Presenting a Paper]()
+[Writting a Paper](https://www.microsoft.com/en-us/research/academic-program/write-great-research-paper/)
 
+[Table presentation](https://inf.ethz.ch/personal/markusp/teaching/guides/guide-tables.pdf)
+
+[Presenting a Paper](https://www.microsoft.com/en-us/research/academic-program/give-great-research-talk/)
 
 
