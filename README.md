@@ -51,6 +51,9 @@ Conclusion:
 - FPGA are a poor fit for TCAM emulation using the transposed RAM approach.
 - The overhead reported (measured as the memory size used divided by the entry size) ranges from 8.4x up to 65.3x.
 
+TCAM and CAM VLSI:
+[Content-Addressable Memory (CAM) Circuits and Architectures: A Tutorial and Survey](https://s3.amazonaws.com/academia.edu.documents/31232313/Pagiamtzis_CAM_JSSC_2006.pdf?response-content-disposition=inline%3B%20filename%3DContent-addressable_memory_CAM_circuits.pdf&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIWOWYYGZ2Y53UL3A%2F20190702%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20190702T180548Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=afdb37be6159be6af242a9f35185ed7fef58ad0805d6bab6e8be12c0378c2d74)
+
 # Papers
 
 ## Programmable Switches 
@@ -75,6 +78,21 @@ Clarify the differences between them.
 ### Domain Specific Architecture
 
 [PISA, Protocol Independant Switch Architecture](http://yuba.stanford.edu/~grg/docs/sdn-chip-sigcomm-2013.pdf)
+
+#### PISA Micro-Architecture 
+
+*Parser*:
+
+*Match-Action*: See CAM/TCAMs.
+
+
+*Deparser*:
+
+*Packet Scheduler*:
+[PIFO](https://people.csail.mit.edu/suvinay/pubs/2015.sched.hotnets.pdf)
+[PIFO](https://cs.nyu.edu/~anirudh/pifo-sigcomm.pdf)
+
+[PIEO](http://www.cs.cornell.edu/~vishal/papers/pieo_2019.pdf)
 
 ### In-Network Computing
 
