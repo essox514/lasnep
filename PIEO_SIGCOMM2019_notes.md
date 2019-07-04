@@ -15,5 +15,4 @@ The author considers that a packet scheduler consist into First-In First-Out (FI
 # Critics
 
 
-
 [1](https://arxiv.org/pdf/1602.06045.pdf) Programmable Packet Scheduling, Anirudh Sivaraman et al.
