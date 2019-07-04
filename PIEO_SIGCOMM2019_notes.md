@@ -5,7 +5,11 @@
 Vishal Shrivastav
 
 # Summary
-This paper propose a solution to tackle some limitations of PIFO[1] expressiveness.
+This paper propose a solution to tackle some limitations of Push-In-First-Out (PIFO)[1] expressiveness.
+Their solution is called Push-in-Extract-Out (PIEO) and allows to extract a packet at any position in the queue.
+Author claims that the proposed solution is "fast, scalable and more expressive than state-of-the-art".
+
+The author considers that a packet scheduler consist into First-In First-Out (FIFO) queues where each queue contain packet of the same flow.
 
 
 # Critics
