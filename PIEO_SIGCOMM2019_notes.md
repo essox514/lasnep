@@ -23,11 +23,15 @@ The `Pre-Enqueue` function computes *rank* and  assign a *predicate*.
 The `Post-Dequeue` function receives a flow f as a parameter and forward the head packet of that flow. If the queue of flows f is not empty after the transmisssion, the function enqueue back the flow f to the ordered list (i.e. the FIFO of f is not empty).
 The `alarm` function, which is optional, can asynchronously trigger enqueue or dequeue operations.
 
+## expressiveness 
+> TODO
 
 ## Hardware implementation
 The author considers that a packet scheduler consist into First-In First-Out (FIFO) queues where each queue contain packet of the same flow.
 To allow scalability, author splits accros multiple SRAM blocks the informations.
 The announced complexity order is $O(\sqrt{N})$ with N the list size with a constant time to enqueue and dequeue values.
+
+
 
 	
 # Consideration
