@@ -10,7 +10,9 @@ Their solution is called Push-in-Extract-Out (PIEO) and allows to extract a pack
 Author claims that the proposed solution is "fast, scalable and more expressive than state-of-the-art".
 
 The author considers that a packet scheduler consist into First-In First-Out (FIFO) queues where each queue contain packet of the same flow.
-
+To allow scalability, author splits accros multiple SRAM blocks the informations.
+The announce complexity order is 
+$O(\sqrt{N}gg)$ with N the list size.
 
 # Critics
 
