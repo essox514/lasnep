@@ -12,7 +12,7 @@ Author claims that the proposed solution is "fast, scalable and more expressive 
 The author considers that a packet scheduler consist into First-In First-Out (FIFO) queues where each queue contain packet of the same flow.
 To allow scalability, author splits accros multiple SRAM blocks the informations.
 The announce complexity order is 
-$O(\sqrt{N}gg)$ with N the list size.
+$O(\sqrt{N})$ with N the list size.
 
 # Critics
 
