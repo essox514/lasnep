@@ -14,7 +14,7 @@ Author claims that the proposed solution is "fast, scalable and more expressive 
 
 To support a new class of scheduling the author add to the the concept of *rank* introduced by [1] the concepts of *predicates*. 
 A *predicate* indicates if a given flow is elligible for scheduling.
-This information allows so to integrate *non-work conserving* algorithms.
+This information allows so to integlrate *non-work conserving* algorithms.
 The *rank* is a value compute at the insertion of a flow.
 As a result, to determine if a given flow can be dequeued, we determine all elligible flow with the *predicate* and then select the flow with the minimum *rank* value.
 
@@ -27,9 +27,19 @@ The `alarm` function, which is optional, can asynchronously trigger enqueue or d
 > TODO
 
 ## Hardware implementation
-The author considers that a packet scheduler consist into First-In First-Out (FIFO) queues where each queue contain packet of the same flow.
-To allow scalability, author splits accros multiple SRAM blocks the informations.
-The announced complexity order is $O(\sqrt{N})$ with N the list size with a constant time to enqueue and dequeue values.
+To limit the number of comparison the author stores a list of N elements over $2\*\sqrt(N)$ sublist of size $\sqrt(N)$.
+In addition, a register bank, called "*Ordered-Sublist-Array*" (OSA), of size $2 \* \sqrt(N)$ stores for each sublist the minimum *rank*, the smallest *predicate*, the number of elements and the sublist id.
+
+Thus to perform an enqueue, a sublist is selected by looking at the OSA and determing the first sublist (using a priority encoder) with a smallest rank smaller than the new rank to insert.
+Also, the next sublist on the right (if not full) or an empty sublist is read to be able to store an element in case the selected sublist is full.
+Since the smallest element of the sublist on the right is greater than the new element to insert, it an evidence that the global order can be garantee.
+Once the sublist are read, the funciton determine where to insert the new element and then update the OSA.
+> Since all the elements are ordered, it appears that the priority encoder will garantee the closest sublist.
+
+To perform a dequeue operation, the sublist is selected by determining which one has the smallest elligible element.
+Afterward the element is extracted, and the OSA updated.
+To be able to dequeue a specific flow *f*, a list of flow with their coresponding sublist is kept.
+
 
 
 
