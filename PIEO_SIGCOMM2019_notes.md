@@ -40,11 +40,9 @@ To perform a dequeue operation, the sublist is selected by determining which one
 Afterward the element is extracted, and the OSA updated.
 To be able to dequeue a specific flow *f*, a list of flow with their coresponding sublist is kept.
 
+> It seems that the \sqrt(N) is arbitrarly choose. However, we can consider it as a solution to optimize resource consumption since we will have the same size between OSA and sublist which allow to share comparators and other resources. If this is the reason, then only the square root function is elligible.
+> As a result a question is raised : what are the right values for N to optimize HW resource usage ?
 
-
-
-	
-# Consideration
 
 
 [1](https://arxiv.org/pdf/1602.06045.pdf) Programmable Packet Scheduling, Anirudh Sivaraman et al.
