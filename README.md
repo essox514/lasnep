@@ -37,6 +37,7 @@ Graduate Course on [Networks and Mobile Systems CSCI-GA.2620-001](https://cs.nyu
 
 ## Computer Architecture
 
+[(2018) Advanced Course. Go directly watch the videos on Youtube. ](https://safari.ethz.ch/architecture/fall2018/doku.php)
 
 
 
@@ -58,11 +59,28 @@ TCAM and CAM VLSI:
 
 ## Programmable Switches 
 
-### Domain Specific Language
+[Why programmable switches? The road to Software Defined Networking (SDN)](https://www.cs.princeton.edu/courses/archive/fall13/cos597E/papers/sdnhistory.pdf)
 
-OpenFlow
+### Domain Specific Languages and Domain Specific Architecture
 
-[P4 Orginial Paper](https://arxiv.org/pdf/1312.1719.pdf).
+[The first step toward (limited) programmable switches: OpenFlow
+](http://ccr.sigcomm.org/online/files/p69-v38n2n-mckeown.pdf)
+First step: 
+  - OpenFlow supports only a fixed set of network protocols. 
+  - Single Match Table model.
+  
+From OpenFlow to P4.
+- Can we design a reconfigurable and protocol agnostic parser, so that new and future protocols can be parsed without tapping out a new chip? 
+ - Yes! [Design Principles for Packet Parsers](http://ccr.sigcomm.org/online/files/p69-v38n2n-mckeown.pdf)
+ 
+ What are the missing elements to design a fully programmable switch?
+ Question addressed by the paper [Forwarding Metamorphosis: Fast Programmable Match-Action Processing in Hardware for SDN](https://www3.cs.stonybrook.edu/~vyas/teaching/CSE_690-01/Fall13/papers/switchdesign.pdf)
+ 
+The architecture presented in this paper is also refered to as PISA: Protocol Independant Switch Architecture.
+ 
+ While this paper focuses on the hardware architecture, and introduces a domain specific architecture for networking, the language to program PISA is not addressed here.  
+
+This is the topic of the companion paper [P4](https://arxiv.org/pdf/1312.1719.pdf).
 
 [P4 Specification](https://p4.org/specs/)
 
@@ -71,13 +89,9 @@ Presentations:
 - [PSA overview](https://p4.org/assets/p4-ws-2017-p4-architectures.pdf) 
 - and its [specification](https://p4.org/p4-spec/docs/PSA.html) 
 
-POF
 
-Clarify the differences between them. 
 
-### Domain Specific Architecture
 
-[PISA, Protocol Independant Switch Architecture](http://yuba.stanford.edu/~grg/docs/sdn-chip-sigcomm-2013.pdf)
 
 #### PISA Micro-Architecture 
 
