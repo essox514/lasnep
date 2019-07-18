@@ -64,7 +64,11 @@ TCAM and CAM VLSI:
 
 ## Programmable Switches 
 
+
+### Context
 [Why programmable switches? The road to Software Defined Networking (SDN)](https://www.cs.princeton.edu/courses/archive/fall13/cos597E/papers/sdnhistory.pdf)
+
+[Why programmable switches are here to stay? A very good presentation by Nick Mckeown.](https://www.youtube.com/watch?v=8ie0FcsN07U)
 
 ### Domain Specific Languages and Domain Specific Architecture
 
@@ -85,7 +89,11 @@ The architecture presented in this paper is also refered to as PISA: Protocol In
  
  While this paper focuses on the hardware architecture, and introduces a domain specific architecture for networking, the language to program PISA is not addressed here.  
 
-This is the topic of the companion paper [P4](https://arxiv.org/pdf/1312.1719.pdf).
+This is the topic of another paper, P4, see below.
+
+### Domain Specific Architecture 
+
+[paper P4 (companion paper of PISA)](https://arxiv.org/pdf/1312.1719.pdf).
 
 [P4 Specification](https://p4.org/specs/)
 
