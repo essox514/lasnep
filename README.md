@@ -43,7 +43,7 @@ Graduate Course on [Networks and Mobile Systems CSCI-GA.2620-001](https://cs.nyu
 
 ## FPGA
 
--Blogs:
+### Blogs and News
 [Zipcpu: the blogs covers many classics topics related to FPGA: bus, AXIs, clock domain crossing, PLL, etc. (In Verilog)](https://zipcpu.com)
 [Front de libération des FPGAs (french)](http://www.fabienm.eu/flf/)
 
