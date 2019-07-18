@@ -126,7 +126,7 @@ However, multiple researcher raised concerns about offloading distributed applic
 
 # Graduate Students Ressources
 
-Reflexion on Research
+## Reflexion on Research
 
 [You and your research](https://www.site.uottawa.ca/~yymao/misc/Hamming_kaiser.html)
 
@@ -139,5 +139,22 @@ Reflexion on Research
 [Presenting a Paper](https://www.microsoft.com/en-us/research/academic-program/give-great-research-talk/)
 
 [Presentation guidelines](https://users.ece.cmu.edu/~pueschel/teaching/guides/guide-presentations.pdf)
+
+## Religion - Emacs
+Emacs is an editor that is highly recommanded to use as everything can be integrated within emacs (from note taking, latex writting, developpement, etc.). The learning curve is *STEEP* (though), but it is worth it!
+
+[Ovrview](https://www.gnu.org/software/emacs/tour/index.html)
+[Tutorials](http://www.jesshamrick.com/2012/09/10/absolute-beginners-guide-to-emacs/)
+
+
+In particular:
+- to write LaTeX
+  See the following [overview and tutorial for latex](https://nasseralkmim.github.io/notes/2016/08/21/my-latex-environment/#orgaa3b19e)
+- Take notes, organize them, GTD (Getting Things done)
+  Packages to install: org-mode, org-notes, org-ref
+  Org-mode is just ONE good reason to use emacs. See the [following tutorials](https://orgmode.org/worg/org-tutorials/)
+- as an IDE (Python, C++, Lisp, VHDL, System Verilog, etc.)
+
+
 
 
