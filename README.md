@@ -39,7 +39,7 @@ Graduate Course on [Networks and Mobile Systems CSCI-GA.2620-001](https://cs.nyu
 
 [(2018) Advanced Course. Go directly watch the videos on Youtube. ](https://safari.ethz.ch/architecture/fall2018/doku.php)
 
-Reference books:
+Reference books (read in this order):
 David A Patterson and John L. Hennessy - Computer Organization and Design: the Hardware/Software Interface
 John L. Hennessy and David A Patterson - Computer Architecture: A Quantitative Approach
 ## FPGA
@@ -72,6 +72,7 @@ TCAM and CAM VLSI:
 
 [Why programmable switches? The road to Software Defined Networking (SDN)](https://www.cs.princeton.edu/courses/archive/fall13/cos597E/papers/sdnhistory.pdf)
 
+[A cornerstone paper in modern network hardware design? Yes, there is one!](http://conferences.sigcomm.org/hotnets/2008/papers/1.pdf)
 
 [Where Programmable switches fit in the global picture SDN?](https://www.youtube.com/watch?v=YHeyuD89n1Y)
 
