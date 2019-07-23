@@ -39,13 +39,16 @@ Graduate Course on [Networks and Mobile Systems CSCI-GA.2620-001](https://cs.nyu
 
 [(2018) Advanced Course. Go directly watch the videos on Youtube. ](https://safari.ethz.ch/architecture/fall2018/doku.php)
 
-
-
+Reference books:
+David A Patterson and John L. Hennessy - Computer Organization and Design: the Hardware/Software Interface
+John L. Hennessy and David A Patterson - Computer Architecture: A Quantitative Approach
 ## FPGA
 
 ### Blogs and News
 [Zipcpu: the blogs covers many classics topics related to FPGA: bus, AXIs, clock domain crossing, PLL, etc. (In Verilog)](https://zipcpu.com)
 [Front de libération des FPGAs (french)](http://www.fabienm.eu/flf/)
+
+[Designing parallel computers and integrated systems-on-chips using FPGAs](http://fpga.org)
 
 [Clock Domain Crossing](http://www.sunburst-design.com/papers/CummingsSNUG2008Boston_CDC.pdf) a course about clock domain crossing for bus and signal.
 
