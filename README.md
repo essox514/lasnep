@@ -41,7 +41,9 @@ Graduate Course on [Networks and Mobile Systems CSCI-GA.2620-001](https://cs.nyu
 
 Reference books (read in this order):
 David A Patterson and John L. Hennessy "Computer Organization and Design: the Hardware/Software Interface"
+
 John L. Hennessy and David A Patterson  "Computer Architecture: A Quantitative Approach"
+
 ## FPGA
 
 ### Blogs and News
