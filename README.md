@@ -34,6 +34,16 @@ Graduate Course on [Networks and Mobile Systems CSCI-GA.2620-001](https://cs.nyu
 
 ## Languages
 
+### C++
+
+
+
+### Python
+
+
+### VHDL 
+
+
 
 ## Computer Architecture
 
@@ -147,6 +157,57 @@ However, multiple researcher raised concerns about offloading distributed applic
 
 
 # Developpment Ressources 
+
+# Conferences / Journal
+
+Do you want to publish to a conference not listed below? Double check the conference statistics on google scholar (under the metrics tab).
+
+## Networking
+
+[USENIX NSDI](https://www.usenix.org/conference/nsdi19)
+
+[SIGCOMM]()
+
+[GLOBECOM](https://globecom2019.ieee-globecom.org/)
+
+[INFCOMM](https://infocom2020.ieee-infocom.org/)
+
+[CoNext](https://conferences2.sigcomm.org/co-next/2019/#!/home)
+
+[HotNets](https://conferences.sigcomm.org/hotnets/2019/)
+
+[Transaction on Networking](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=90)
+
+[Usenix ATC](https://www.usenix.org/conference/atc19)
+
+[Transactions on Communications](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=26)
+
+[P4 Workshops](https://p4.org/events/2019-09-23-euro-p4-workshop/)
+See the P4.org event section for the lastest P4 workshop.
+
+[ANCS](http://www.ancsconf.org/)
+
+[Computer Communication Review](https://ccronline.sigcomm.org/instructions-for-submission/)
+
+## Computer Architecture 
+
+### FPGA
+
+[FPGA](http://isfpga.org/)
+
+[FCCM](https://www.fccm.org/)
+
+[FPL](https://fpl2019.bsc.es/)
+
+### All remainings topics
+
+[Transactions on VLSI](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=92)
+
+[ACM Transactions on Computer Systems (TOCS)](https://dl.acm.org/citation.cfm?id=3341160)
+
+[Micro](https://www.microarch.org/micro52/submit/papers.html)
+
+[ASPLOS](https://asplos-conference.org/)
 
 # Graduate Students Ressources
 
