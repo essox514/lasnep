@@ -205,6 +205,12 @@ See the P4.org event section for the lastest P4 workshop.
 
 [ACM Transactions on Computer Systems (TOCS)](https://dl.acm.org/citation.cfm?id=3341160)
 
+[IEEE Transactions on Computers](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=12)
+
+[Design Automation Conference (DAC)](https://www.dac.com/)
+
+[IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=43)
+
 [Micro](https://www.microarch.org/micro52/submit/papers.html)
 
 [ASPLOS](https://asplos-conference.org/)
