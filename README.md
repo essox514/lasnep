@@ -154,7 +154,11 @@ However, multiple researcher raised concerns about offloading distributed applic
 1)[How programmable switches should be used (vs can be used)](https://people.eecs.berkeley.edu/~apanda/assets/papers/LoadBalancing.pdf)
 2)[Which applications can benefits from in-network computing?](https://drkp.net/papers/innetwork-hotos19.pdf)
 
+# Network Traffic Traces 
 
+Traffic traces can be obtained via [CAIDA](https://www.caida.org)
+
+Prefixes (IPv6 and IPv4) used in core networks can be extracted from BGP dumps available either on CAIDA, [routeviews](http://www.routeviews.org/routeviews/) or on [RIS](https://www.ripe.net/analyse/internet-measurements/routing-information-service-ris/ris-raw-data). Multiple tools/script are available to read the BGP dumps and extracts any information hold in a BGP message.
 
 # Developpment Ressources 
 
