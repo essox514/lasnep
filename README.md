@@ -223,14 +223,23 @@ See the P4.org event section for the lastest P4 workshop.
 
 ## Reflexion on Research
 
+
+
 [You and your research](https://www.site.uottawa.ca/~yymao/misc/Hamming_kaiser.html)
 
+## Reading a paper
 [Reading a Paper](https://blizzard.cs.uwaterloo.ca/keshav/home/Papers/data/07/paper-reading.pdf)
 
-[Writting a Paper](https://www.microsoft.com/en-us/research/academic-program/write-great-research-paper/)
+We advise you to take notes when you read a paper. The benefits are do
+
+## Writting a Paper 
+[Writting a Paper](https://www.microsoft.com/en-us/research/academic-program/write-great-research-paper/). Another good resource for writting a paper or a thesis is [The Chicago Manual of Style](https://www.chicagomanualofstyle.org/home.html). 
 
 [Table presentation](https://inf.ethz.ch/personal/markusp/teaching/guides/guide-tables.pdf)
 
+We strongly encourage to write a scientific article using LateX. If you are note familiar with LateX we recommand to use the TexStudio LateX editor (available on many platforms). 
+
+## Presenting a Paper
 [Presenting a Paper](https://www.microsoft.com/en-us/research/academic-program/give-great-research-talk/)
 
 [Presentation guidelines](https://users.ece.cmu.edu/~pueschel/teaching/guides/guide-presentations.pdf)
