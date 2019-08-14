@@ -230,7 +230,7 @@ See the P4.org event section for the lastest P4 workshop.
 ## Reading a paper
 [Reading a Paper](https://blizzard.cs.uwaterloo.ca/keshav/home/Papers/data/07/paper-reading.pdf)
 
-We advise you to take notes when you read a paper. The benefits are do
+We strongly advise you to take notes when you read a paper. The benefits are multiples: for your literature review, to fully understand an article, and to share with your colleagues!
 
 ## Writting a Paper 
 [Writting a Paper](https://www.microsoft.com/en-us/research/academic-program/write-great-research-paper/). Another good resource for writting a paper or a thesis is [The Chicago Manual of Style](https://www.chicagomanualofstyle.org/home.html). 
