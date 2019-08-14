@@ -253,7 +253,8 @@ Emacs is an editor that is highly recommanded to use as everything can be integr
 
 In particular:
 - to write LaTeX
-  See the following [overview and tutorial for latex](https://nasseralkmim.github.io/notes/2016/08/21/my-latex-environment/#orgaa3b19e), and a [shorter but complementary tutorial](https://piotr.is/2010/emacs-as-the-ultimate-latex-editor/)
+  See the following [overview and tutorial for latex](https://nasseralkmim.github.io/notes/2016/08/21/my-latex-environment/#orgaa3b19e), and a [shorter but complementary tutorial](https://piotr.is/2010/emacs-as-the-ultimate-latex-editor/). hen you install pdf-tools, follow [this instructions](http://google-ebook.com/blog/2016/01/13/pdf-tools-in-emacs/)
+  
 - Take notes, organize them, GTD (Getting Things done)
   Packages to install: org-mode, org-notes, org-ref
   Org-mode is just ONE good reason to use emacs. See the [following tutorials](https://orgmode.org/worg/org-tutorials/)
