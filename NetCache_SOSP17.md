@@ -1,6 +1,6 @@
 # Title: NetCache: Balancing Key-Value Stores with Fast In-Network Caching
 
-[Xin Jin et al. SOSP'17](doi.org/10.1145/3132747.3132764)
+[Xin Jin et al. SOSP'17](//doi.org/10.1145/3132747.3132764)
 
 # Author:
 Xin Jin, Xiaozhou Li, Haoyu Zhang, Robert Soulé, Jeongkeun Lee, Nate Foster, Changhoon Kim, and Ion Stoica
