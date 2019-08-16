@@ -1,4 +1,4 @@
-# LASNEP Research Lab 
+# NSERC Industrial Research Chair for High Speed and Programmable Packet Processing 
 Reference Courses, Papers and Ressources on the topic of: Networking, Operating System , Algorithms, Languages, Computer Architecture and FPGA. Also contains ressources for graduates students. 
 
 
@@ -170,7 +170,7 @@ Do you want to publish to a conference not listed below? Double check the confer
 
 [USENIX NSDI](https://www.usenix.org/conference/nsdi19)
 
-[SIGCOMM]()
+[SIGCOMM](http://www.sigcomm.org)
 
 [GLOBECOM](https://globecom2019.ieee-globecom.org/)
 
@@ -178,11 +178,11 @@ Do you want to publish to a conference not listed below? Double check the confer
 
 [CoNext](https://conferences2.sigcomm.org/co-next/2019/#!/home)
 
-[HotNets](https://conferences.sigcomm.org/hotnets/2019/)
+[HotNets](https://www.sigcomm.org/events/hotnets-workshop)
 
 [Transaction on Networking](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=90)
 
-[Usenix ATC](https://www.usenix.org/conference/atc19)
+[Usenix ATC](https://www.usenix.org/conferences/byname/131)
 
 [Transactions on Communications](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=26)
 
@@ -191,7 +191,7 @@ See the P4.org event section for the lastest P4 workshop.
 
 [ANCS](http://www.ancsconf.org/)
 
-[Computer Communication Review](https://ccronline.sigcomm.org/instructions-for-submission/)
+[Computer Communication Review](https://www.sigcomm.org/publications/computer-communication-review)
 
 ## Computer Architecture 
 
@@ -201,7 +201,7 @@ See the P4.org event section for the lastest P4 workshop.
 
 [FCCM](https://www.fccm.org/)
 
-[FPL](https://fpl2019.bsc.es/)
+[FPL](http://www.fpl.org/h/)
 
 ### All remainings topics
 
