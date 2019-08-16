@@ -43,7 +43,8 @@ Graduate Course on [Networks and Mobile Systems CSCI-GA.2620-001](https://cs.nyu
 
 ### VHDL 
 
-
+Old but good:
+https://www.ics.uci.edu/~alexv/154/VHDL-Cookbook.pdf
 
 ## Computer Architecture
 
