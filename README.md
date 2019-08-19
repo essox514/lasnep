@@ -260,7 +260,6 @@ In particular:
   Packages to install: org-mode, org-notes, org-ref
   Org-mode is just ONE good reason to use emacs. See the [following tutorials](https://orgmode.org/worg/org-tutorials/)
 - as an IDE (Python, C++, Lisp, VHDL, System Verilog, etc.)
-
-
+- C++ IDE: Follow this [tutorial](http://syamajala.github.io/c-ide.html), which helps you to configure and install [cmake-ide](https://github.com/atilaneves/cmake-ide)
 
 
