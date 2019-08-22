@@ -124,7 +124,13 @@ Presentations:
 - [PSA overview](https://p4.org/assets/p4-ws-2017-p4-architectures.pdf) 
 - and its [specification](https://p4.org/p4-spec/docs/PSA.html) 
 
+#### P4 Compilation 
 
+*to FPGA*
+
+P4FPGA : An open-source P4 compiler for FPGAs (P4 -> BlueSpec). The git repo is no longer maintained. 
+Complete reference: Wang, Han, Robert Soulé, Huynh Tu Dang, Ki Suh Lee, Vishal Shrivastav, Nate Foster, and Hakim Weatherspoon. "P4FPGA: A rapid prototyping framework for P4." In Proceedings of the Symposium on SDN Research, pp. 122-135. ACM, 2017.
+Link to the paper [P4FPGA](http://www.cs.yale.edu/homes/soule/pubs/sosr17-p4fpga.pdf)
 
 
 
