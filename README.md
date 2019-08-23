@@ -234,6 +234,11 @@ See the P4.org event section for the lastest P4 workshop.
 
 [You and your research](https://www.site.uottawa.ca/~yymao/misc/Hamming_kaiser.html)
 
+## Bibliography manager
+Endnote 
+Zotero
+Emacs
+
 ## Reading a paper
 [Reading a Paper](https://blizzard.cs.uwaterloo.ca/keshav/home/Papers/data/07/paper-reading.pdf)
 
