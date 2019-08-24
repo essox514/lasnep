@@ -57,6 +57,11 @@ David A Patterson and John L. Hennessy "Computer Organization and Design: the Ha
 
 John L. Hennessy and David A Patterson  "Computer Architecture: A Quantitative Approach"
 
+### Networking
+
+An old (may be outdated) reference to the design of network processors (NPU). [High Performance Switches and Routers](http://rozup.ir/up/netit/Documents/Term3/roostazade/hsn/E-Book/0.pdf)
+Please note that NPUs were designed to offer higher processing flexibility over P4-programable data plane (see article below Forwarding Metamorphosis). Hence, NPUs could barely process 200/400 Gbps, while PISA was shown to process Tbps. However, the PISA processing capabilities are restrained over a NPU. PISA is not tailored to process more than 512 bytes of the packet header (no payload processing allowed). 
+
 ## FPGA
 
 ### Blogs and News
