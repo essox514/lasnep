@@ -48,7 +48,9 @@ https://www.ics.uci.edu/~alexv/154/VHDL-Cookbook.pdf
 
 ## Computer Architecture
 
-[(2018) Advanced Course. Go directly watch the videos on Youtube. ](https://safari.ethz.ch/architecture/fall2018/doku.php)
+Introduction course for undergrades, or for a refresh. [Link to the course material (check also the video on youtube)](https://safari.ethz.ch/digitaltechnik/spring2018/doku.php?id=schedule)
+
+(2018) Advanced Course for graduate students. [Link to the course material (see also the video on youtube)](https://safari.ethz.ch/architecture/fall2018/doku.php)
 
 Reference books (read in this order):
 David A Patterson and John L. Hennessy "Computer Organization and Design: the Hardware/Software Interface"
