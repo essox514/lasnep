@@ -13,6 +13,10 @@ Introduction Course on [Computer Networks CSCI-UA.0480-009](https://cs.nyu.edu/c
 Graduate Course on [Networks and Mobile Systems CSCI-GA.2620-001](https://cs.nyu.edu/courses/spring18/CSCI-GA.2620-001/), with an emphasis on current research challenges in the field of computer networks.
 
 
+### Blogs and news
+
+[OvSorbit](https://ovsorbit.org/) a podcast related to OvS (Open vSwitch), an open-source implementation of a distributed virtual multilayer switch. The main purpose of Open vSwitch is to provide a switching stack for hardware virtualization environments, while supporting multiple protocols and standards used in computer networks.
+
 ## Operating System
 
 -[Operating System Concepts](http://iips.icci.edu.iq/images/exam/Abraham-Silberschatz-Operating-System-Concepts---9th2012.12.pdf) is a reference book used in most courses.
