@@ -268,6 +268,10 @@ We strongly encourage to write a scientific article using LateX. If you are note
 
 [Presentation guidelines](https://users.ece.cmu.edu/~pueschel/teaching/guides/guide-presentations.pdf)
 
+## Presenting your research on your website
+
+Use one of the tow following framework [Solo](http://chibicode.github.io/solo/) or [Duo](https://chibicode.github.io/duo/). Many other frameworks are available on Github (for your team, for blogging, etc.).
+
 ## Religion - Emacs
 Emacs is an editor that is highly recommanded to use as everything can be integrated within emacs (from note taking, latex writting, developpement, etc.). The learning curve is *STEEP* (though), but it is worth it!
 
