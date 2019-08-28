@@ -47,10 +47,20 @@ Graduate Course on [Networks and Mobile Systems CSCI-GA.2620-001](https://cs.nyu
 ### Python
 
 
-### VHDL 
+### RTL
+
+#### VHDL 
 
 Old but good:
 https://www.ics.uci.edu/~alexv/154/VHDL-Cookbook.pdf
+
+#### Tools 
+
+Open source tools (May be outdated. [Link](http://www.fabienm.eu/flf/open-source-fpga-map/)).
+
+In particular, [CocoTB](https://github.com/cocotb/cocotb) is of high interest if you want to test your design with a Python testbench.
+
+To have an update on open-source tools, checks the ORConf talks [link to conference website](https://orconf.org)
 
 ## Computer Architecture
 
@@ -176,6 +186,15 @@ Some applications offloaded on programmable switches were shown to be accelerate
 However, multiple researcher raised concerns about offloading distributed applications on programmable switchs. Most notably, the following questions were raised.
 1)[How programmable switches should be used (vs can be used)](https://people.eecs.berkeley.edu/~apanda/assets/papers/LoadBalancing.pdf)
 2)[Which applications can benefits from in-network computing?](https://drkp.net/papers/innetwork-hotos19.pdf)
+
+# High-Level Synthesis
+
+See LegUP, Xilinx Vivado HLS.
+
+ahaHLS: An open source high level synthesis (HLS) tool using LLVM. [Link](https://github.com/dillonhuff/ahaHLS)
+The authors also presents the main ideas used in his tools in videos ((link)[https://www.youtube.com/channel/UC8qv9c4Ruu0mycMVjI7R48w/videos] to Youtube).
+
+
 
 # Network Traffic Traces 
 
