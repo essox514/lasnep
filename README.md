@@ -54,6 +54,11 @@ Graduate Course on [Networks and Mobile Systems CSCI-GA.2620-001](https://cs.nyu
 Old but good:
 https://www.ics.uci.edu/~alexv/154/VHDL-Cookbook.pdf
 
+#### Other modern Hardware Description Languages 
+
+See the related projects section on [PyRTL](https://ucsbarchlab.github.io/PyRTL/). 
+The page covers the following HDL: [myHDL](http://www.myhdl.org), [Chisel](https://chisel.eecs.berkeley.edu), [PyMTL](https://github.com/cornell-brg/pymtl), [Clash](https://clash-lang.org).
+
 #### Tools 
 
 Open source tools (May be outdated. [Link](http://www.fabienm.eu/flf/open-source-fpga-map/)).
