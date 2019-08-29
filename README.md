@@ -54,10 +54,13 @@ Graduate Course on [Networks and Mobile Systems CSCI-GA.2620-001](https://cs.nyu
 Old but good:
 https://www.ics.uci.edu/~alexv/154/VHDL-Cookbook.pdf
 
-#### Other modern Hardware Description Languages 
+#### Modern Hardware Description Languages 
 
 See the related projects section on [PyRTL](https://ucsbarchlab.github.io/PyRTL/). 
 The page covers the following HDL: [myHDL](http://www.myhdl.org), [Chisel](https://chisel.eecs.berkeley.edu), [PyMTL](https://github.com/cornell-brg/pymtl), [Clash](https://clash-lang.org).
+
+Paper: A Golden Age of Hardware Description Languages: Applying Programming Language Techniques to Improve Design Productivity [Link](http://drops.dagstuhl.de/opus/volltexte/2019/10550/pdf/LIPIcs-SNAPL-2019-7.pdf)
+
 
 #### Tools 
 
