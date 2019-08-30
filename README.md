@@ -282,7 +282,11 @@ See the P4.org event section for the lastest P4 workshop.
 
 ## Bibliography manager
 Endnote 
-Zotero
+
+
+Zotero, a free an open-source blibliography manager. [Link](https://www.zotero.org) 
+
+
 Emacs
 
 ## Reading a paper
