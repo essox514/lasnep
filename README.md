@@ -153,6 +153,9 @@ This is the topic of another paper, P4, see below.
 
 [P4 Specification](https://p4.org/specs/)
 
+Which processing should be integrated in a programable switch (implemented on ASIC)? This question is raised by [Domino](https://dl.acm.org/citation.cfm?id=2934900). 
+
+
 Presentations:
 - [P4_16](https://www.hotchips.org/wp-content/uploads/hc_archives/hc29/HC29.20-Tutorials-Pub/HC29.20.1-P4-Soft-Net-Pub/HC29.21.100-P4-Tutorial.pdf)
 - [PSA overview](https://p4.org/assets/p4-ws-2017-p4-architectures.pdf) 
