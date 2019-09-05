@@ -150,7 +150,7 @@ While previously presented paper focus on the hardware architecture, the languag
 ### Domain Specific Language 
 First, we highly recommand you to read the [P4 paper](https://arxiv.org/pdf/1312.1719.pdf).
 
-Then, the P4 tutoral [getting started with P4 (no previous knowledge required](https://github.com/p4lang/education/blob/master/GettingStarted.md), provided by the P4 Education working group give a good indroduction on P4, as well as examples using the [bmv2, the behavioral model for P4](https://github.com/p4lang/behavioral-model)
+Then, the tutorial [Getting started with P4 (no previous knowledge required](https://github.com/p4lang/education/blob/master/GettingStarted.md), provided by the P4 Education working group is a good indroduction on P4, and present examples using the [bmv2, the behavioral model for P4](https://github.com/p4lang/behavioral-model). A more P4 complete tutorial to help you programming an application in P4 is provided [on the P4 language repo](https://github.com/p4lang/tutorials)
 
 More resources on P4 are available on the [P4 Educational Working Group](https://github.com/p4lang/education). The latest [P4 Specification is available here](https://p4.org/specs/).
 
