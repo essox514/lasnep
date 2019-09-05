@@ -126,7 +126,7 @@ TCAM and CAM VLSI:
 
 [Why programmable switches are here to stay? A very good presentation by Nick Mckeown.](https://www.youtube.com/watch?v=8ie0FcsN07U)
 
-### Domain Specific Languages and Domain Specific Architecture
+### Domain Specific Architecture
 
 [The first step toward (limited) programmable switches: OpenFlow
 ](http://ccr.sigcomm.org/online/files/p69-v38n2n-mckeown.pdf)
@@ -142,18 +142,19 @@ From OpenFlow to P4.
  Question addressed by the paper [Forwarding Metamorphosis: Fast Programmable Match-Action Processing in Hardware for SDN](https://www3.cs.stonybrook.edu/~vyas/teaching/CSE_690-01/Fall13/papers/switchdesign.pdf)
  
 The architecture presented in this paper is also refered to as PISA: Protocol Independant Switch Architecture.
+
+The Domino paper raises the question of the processing capabilities that sould be integrated in a programable switch (implemented on ASIC). [Link to the Domino paper](https://dl.acm.org/citation.cfm?id=2934900). 
  
- While this paper focuses on the hardware architecture, and introduces a domain specific architecture for networking, the language to program PISA is not addressed here.  
+While previously presented paper focus on the hardware architecture, the language to program PISA is not addressed here. This is the topic of another paper, P4, see below.
 
-This is the topic of another paper, P4, see below.
+### Domain Specific Language 
+First, we highly recommand you to read the [P4 paper](https://arxiv.org/pdf/1312.1719.pdf).
 
-### Domain Specific Architecture 
+Then, the P4 tutoral [getting started with P4 (no previous knowledge required](https://github.com/p4lang/education/blob/master/GettingStarted.md), provided by the P4 Education working group give a good indroduction on P4, as well as examples using the [bmv2, the behavioral model for P4](https://github.com/p4lang/behavioral-model)
 
-[paper P4 (companion paper of PISA)](https://arxiv.org/pdf/1312.1719.pdf).
+More resources on P4 are available on the [P4 Educational Working Group](https://github.com/p4lang/education). The latest [P4 Specification is available here](https://p4.org/specs/).
 
-[P4 Specification](https://p4.org/specs/)
 
-Which processing should be integrated in a programable switch (implemented on ASIC)? This question is raised by [Domino](https://dl.acm.org/citation.cfm?id=2934900). 
 
 
 Presentations:
