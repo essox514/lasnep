@@ -150,7 +150,7 @@ While previously presented paper focus on the hardware architecture, the languag
 ### Domain Specific Language 
 First, we highly recommand you to read the [P4 paper](https://arxiv.org/pdf/1312.1719.pdf).
 
-Then, the tutorial [Getting started with P4 (no previous knowledge required](https://github.com/p4lang/education/blob/master/GettingStarted.md), provided by the P4 Education working group is a good indroduction on P4, and present examples using the [bmv2, the behavioral model for P4](https://github.com/p4lang/behavioral-model). A more P4 complete tutorial to help you programming an application in P4 is provided [on the P4 language repo](https://github.com/p4lang/tutorials)
+Then, the tutorial [getting started with P4](https://github.com/p4lang/education/blob/master/GettingStarted.md), provided by the P4 Education working group is a good indroduction on P4, and presents examples using the [bmv2, the behavioral model for P4](https://github.com/p4lang/behavioral-model). A more complete tutorial on P4 programming is provided [on the P4 language repo](https://github.com/p4lang/tutorials).
 
 More resources on P4 are available on the [P4 Educational Working Group](https://github.com/p4lang/education). The latest [P4 Specification is available here](https://p4.org/specs/).
 
@@ -182,10 +182,11 @@ Link to the paper [P4FPGA](http://www.cs.yale.edu/homes/soule/pubs/sosr17-p4fpga
 *Deparser*:
 
 *Packet Scheduler*:
-[PIFO](https://people.csail.mit.edu/suvinay/pubs/2015.sched.hotnets.pdf)
-[PIFO](https://cs.nyu.edu/~anirudh/pifo-sigcomm.pdf)
+The first paper on this topic, [PIFO @HotNets](https://people.csail.mit.edu/suvinay/pubs/2015.sched.hotnets.pdf). The longer version was presented at the SIGCOMM conference, [PIFO @SIGCOMM](https://cs.nyu.edu/~anirudh/pifo-sigcomm.pdf).
 
-[PIEO](http://www.cs.cornell.edu/~vishal/papers/pieo_2019.pdf)
+One alternative has been recently presented at SIGCOMM, [PIEO](http://www.cs.cornell.edu/~vishal/papers/pieo_2019.pdf).
+
+Both works are open-source (code available on Github). While PIFO is designed to be implemented on an ASIC, PIEO targets FPGAs.
 
 ### In-Network Computing
 
