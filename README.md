@@ -170,7 +170,11 @@ P4FPGA : An open-source P4 compiler for FPGAs (P4 -> BlueSpec). The git repo is 
 Complete reference: Wang, Han, Robert Soulé, Huynh Tu Dang, Ki Suh Lee, Vishal Shrivastav, Nate Foster, and Hakim Weatherspoon. "P4FPGA: A rapid prototyping framework for P4." In Proceedings of the Symposium on SDN Research, pp. 122-135. ACM, 2017.
 Link to the paper [P4FPGA](http://www.cs.yale.edu/homes/soule/pubs/sosr17-p4fpga.pdf)
 
+Xilinx SDNet. See [P4-NetFPGA](https://github.com/NetFPGA/P4-NetFPGA-public)
 
+*to CPU*
+
+P4C (P4 Compiler)[https://github.com/p4lang/p4c] compiles P4 programs for the bmv2 (Behavioral Model 2)[https://github.com/p4lang/behavioral-model]. Note that the bmv2 is *not* intended to be a fast CPU target (i.e. run a P4 program fast), as the bmv2 is a *BEHAVIROAL MODEL*.
 
 #### PISA Micro-Architecture 
 
@@ -206,6 +210,14 @@ See LegUP, Xilinx Vivado HLS.
 
 ahaHLS: An open source high level synthesis (HLS) tool using LLVM. [Link](https://github.com/dillonhuff/ahaHLS)
 The authors also presents the main ideas used in his tools in videos ((link)[https://www.youtube.com/channel/UC8qv9c4Ruu0mycMVjI7R48w/videos] to Youtube).
+
+# High Speed I/O Framework for Software Packet Processing
+
+A tutorial [on User Space Network Drivers](https://www.net.in.tum.de/fileadmin/bibtex/publications/papers/ixy-writing-user-space-network-drivers.pdf)
+
+[DPDK](https://www.dpdk.org)
+
+[Netmap: A Novel Framework for Fast Packet I/O](https://www.usenix.org/node/168897)
 
 
 
