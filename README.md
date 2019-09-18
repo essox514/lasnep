@@ -42,7 +42,9 @@ Graduate Course on [Networks and Mobile Systems CSCI-GA.2620-001](https://cs.nyu
 
 ### C++
 
-
+### Domain specific Language (DSL)
+- https://www.cuba-platform.com/blog/kotlin-dsl-from-theory-to-practice/
+- [Domain-Specific Languages: A Theoretical Survey](https://pdfs.semanticscholar.org/259f/2e2dfd6806b29bb5e2d9d77ad965a570aab9.pdf)
 
 ### Python
 
