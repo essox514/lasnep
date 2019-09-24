@@ -1,4 +1,4 @@
-# NSERC Industrial Research Chair for High Speed and Programmable Packet Processing 
+# High Speed and Programmable Packet Processing 
 Reference Courses, Papers and Ressources on the topic of: Networking, Operating System , Algorithms, Languages, Computer Architecture and FPGA. Also contains ressources for graduates students. 
 
 
@@ -11,6 +11,8 @@ These two courses are taught at NYU by Anirudh Sivaraman.
 Introduction Course on [Computer Networks CSCI-UA.0480-009](https://cs.nyu.edu/courses/fall17/CSCI-UA.0480-009/)
 
 Graduate Course on [Networks and Mobile Systems CSCI-GA.2620-001](https://cs.nyu.edu/courses/spring18/CSCI-GA.2620-001/), with an emphasis on current research challenges in the field of computer networks.
+
+Another [computer network course](http://web.mit.edu/6.829/www/currentsemester/lectures_gen.html) taught at MIT. This is a graduate-level introduction to classic and advanced topics in computer networks.
 
 
 ### Blogs and news
