@@ -14,6 +14,8 @@ Graduate Course on [Networks and Mobile Systems CSCI-GA.2620-001](https://cs.nyu
 
 Another [computer network course](http://web.mit.edu/6.829/www/currentsemester/lectures_gen.html) taught at MIT. This is a graduate-level introduction to classic and advanced topics in computer networks.
 
+[Advanced Topics in Networking from MIT (2016)](https://people.csail.mit.edu/alizadeh/courses/6.888/index.html)
+
 
 ### Blogs and news
 
