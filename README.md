@@ -116,7 +116,15 @@ TCAM and CAM VLSI:
 
 # Papers
 
+
+
+
 ## Programmable Switches 
+
+A broad selection of papers published on the topic of programmable switches is available [here](https://rg0now.github.io/prog_dataplane_reading_list/README.html#org7f978d7). 
+
+A concise version is presented below. 
+
 
 
 ### Context
@@ -207,6 +215,8 @@ Some applications offloaded on programmable switches were shown to be accelerate
 However, multiple researcher raised concerns about offloading distributed applications on programmable switchs. Most notably, the following questions were raised.
 1)[How programmable switches should be used (vs can be used)](https://people.eecs.berkeley.edu/~apanda/assets/papers/LoadBalancing.pdf)
 2)[Which applications can benefits from in-network computing?](https://drkp.net/papers/innetwork-hotos19.pdf)
+
+
 
 # High-Level Synthesis
 
