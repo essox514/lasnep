@@ -55,8 +55,11 @@ Another [computer network course](http://web.mit.edu/6.829/www/currentsemester/l
 
 #### VHDL 
 
-Old but good:
-https://www.ics.uci.edu/~alexv/154/VHDL-Cookbook.pdf
+Old but good [VHDL Cookbook](https://www.ics.uci.edu/~alexv/154/VHDL-Cookbook.pdf)
+
+#### Verilog 
+
+[Verilog, Formal Verification and Verilator Beginner's Tutorial](https://zipcpu.com/tutorial/). This tutorial has pointers to other tutorials.
 
 #### Modern Hardware Description Languages 
 
