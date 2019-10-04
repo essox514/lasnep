@@ -50,6 +50,7 @@ Another [computer network course](http://web.mit.edu/6.829/www/currentsemester/l
 
 ### Python
 
+[Fundamentals of Python Programming](https://python.cs.southern.edu/pythonbook/pythonbook.pdf)
 
 ### RTL
 
