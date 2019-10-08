@@ -139,6 +139,7 @@ A concise version is presented below.
 
 [Where Programmable switches fit in the global picture SDN?](https://www.youtube.com/watch?v=YHeyuD89n1Y)
 
+[An attempt to motivate and clarify Software-Defined Networking (SDN)](https://www.youtube.com/watch?v=WVs7Pc99S7w)
 
 [Why programmable switches are here to stay? A very good presentation by Nick Mckeown.](https://www.youtube.com/watch?v=8ie0FcsN07U)
 
