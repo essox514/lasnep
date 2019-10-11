@@ -16,6 +16,8 @@ Another [computer network course](http://web.mit.edu/6.829/www/currentsemester/l
 
 [Advanced Topics in Networking from MIT (2016)](https://people.csail.mit.edu/alizadeh/courses/6.888/index.html)
 
+[Nick Mckeown Course - Advanced Topics in Networking](http://web.stanford.edu/class/cs244/)
+
 
 ### Blogs and news
 
