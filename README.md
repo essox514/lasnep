@@ -18,6 +18,9 @@ Another [computer network course](http://web.mit.edu/6.829/www/currentsemester/l
 
 [Nick Mckeown Course - Advanced Topics in Networking](http://web.stanford.edu/class/cs244/)
 
+### 5G
+
+[5G Mobile Networks: A Systems Approach](https://5g.systemsapproach.org/index.html)
 
 ### Blogs and news
 
