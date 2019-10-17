@@ -74,6 +74,8 @@ The page covers the following HDL: [myHDL](http://www.myhdl.org), [Chisel](https
 
 Paper: A Golden Age of Hardware Description Languages: Applying Programming Language Techniques to Improve Design Productivity [Link](http://drops.dagstuhl.de/opus/volltexte/2019/10550/pdf/LIPIcs-SNAPL-2019-7.pdf)
 
+[Spatial: an Argon DSL for programming reconfigurable hardware from a parameterized, high level abstraction.](https://spatial-lang.org/control-flow)
+
 
 #### Tools 
 
