@@ -53,6 +53,8 @@ Another [computer network course](http://web.mit.edu/6.829/www/currentsemester/l
 
 For modern C++ please use the [C++ Core Guidelines](http://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines), the book ["A Tour of C++"](https://github.com/maybez/maybe/blob/master/Books/C++/A%20Tour%20of%20C++/A%20Tour%20of%20C++.pdf).
 
+For a more complete list of C++ resources, check [Awesome CPP](https://awesomecpp.com/).
+
 ### Python
 
 [Fundamentals of Python Programming](https://python.cs.southern.edu/pythonbook/pythonbook.pdf)
