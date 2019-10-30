@@ -156,6 +156,8 @@ A concise version is presented below.
 
 [Why programmable switches are here to stay? A very good presentation by Nick Mckeown.](https://www.youtube.com/watch?v=8ie0FcsN07U)
 
+[Historic Perspective: From Ethane To SDN and Beyond](https://ccronline.sigcomm.org/wp-content/uploads/2019/10/acmdl19-347.pdf). A brief description on the history behind the Ethane paper and its ultimate evolution into SDN and beyond.
+
 ### Domain Specific Architecture
 
 [The first step toward (limited) programmable switches: OpenFlow
