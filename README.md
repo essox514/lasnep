@@ -239,7 +239,7 @@ However, multiple researcher raised concerns about offloading distributed applic
 See LegUP, Xilinx Vivado HLS.
 
 ahaHLS: An open source high level synthesis (HLS) tool using LLVM. [Link](https://github.com/dillonhuff/ahaHLS)
-The authors also presents the main ideas used in his tools in videos ((link)[https://www.youtube.com/channel/UC8qv9c4Ruu0mycMVjI7R48w/videos] to Youtube).
+The authors also presents the main ideas used in his tools in videos [link to Youtube](https://www.youtube.com/channel/UC8qv9c4Ruu0mycMVjI7R48w/videos).
 
 # High Speed I/O Framework for Software Packet Processing
 
