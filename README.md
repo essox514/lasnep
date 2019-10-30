@@ -131,7 +131,9 @@ TCAM and CAM VLSI:
 
 # Papers
 
+## Router Buffers
 
+Past, present and future perspectiveso on [sizing router buffers](https://ccronline.sigcomm.org/wp-content/uploads/2019/10/acmdl19-339.pdf).
 
 
 ## Programmable Switches 
