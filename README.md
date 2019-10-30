@@ -18,6 +18,8 @@ Another [computer network course](http://web.mit.edu/6.829/www/currentsemester/l
 
 [Nick Mckeown Course - Advanced Topics in Networking](http://web.stanford.edu/class/cs244/)
 
+If you prefer to watch videos, the content of the course COS 461 - Computer Networking (Princeton) is available on [Youtube](https://www.youtube.com/playlist?list=PLpherdrLyny-zJw95jcE-uJkcsIAG1MEn).
+
 ### 5G
 
 [5G Mobile Networks: A Systems Approach](https://5g.systemsapproach.org/index.html)
