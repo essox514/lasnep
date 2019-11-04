@@ -118,7 +118,9 @@ For a more complete list of C++ resources, check [Awesome CPP](https://awesomecp
 
 #### VHDL 
 
-Old but good [VHDL Cookbook](https://www.ics.uci.edu/~alexv/154/VHDL-Cookbook.pdf)
+[VHDL Cookbook](https://www.ics.uci.edu/~alexv/154/VHDL-Cookbook.pdf)
+
+[VHDL Language Reference Manual (VHDL 2008)](ftp://ftp.lpp.polytechnique.fr/jeandet/keep/sync/vhdl/4772740_IEEE-1076_Standard-VHDL-Language-Ref-Manual.pdf)
 
 #### Verilog 
 
