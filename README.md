@@ -27,6 +27,7 @@ Table of Contents
          * [Blogs and News](#blogs-and-news-1)
          * [Associative Memory](#associative-memory)
    * [Papers](#papers)
+      * [Congestion Control](#congestion-control)
       * [Router Buffers](#router-buffers)
       * [Programmable Switches](#programmable-switches)
          * [Context](#context)
@@ -192,6 +193,10 @@ TCAM and CAM VLSI:
 
 Past, present and future perspectiveso on [sizing router buffers](https://ccronline.sigcomm.org/wp-content/uploads/2019/10/acmdl19-339.pdf).
 
+
+## Congestion Control
+
+Only few selected papers are presented here. In particular [Datacenter Congestion Control:Identifying what is essential and making it practical](https://people.eecs.berkeley.edu/~radhika/adsrpt.pdf) presents a good overview of the latest findings and knowledge in this field. 
 
 ## Programmable Switches 
 
