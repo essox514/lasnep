@@ -111,6 +111,8 @@ For modern C++ please use the [C++ Core Guidelines](http://isocpp.github.io/CppC
 
 For a more complete list of C++ resources, check [Awesome CPP](https://awesomecpp.com/).
 
+ [Optimizing software in C++: An optimization guide for Windows, Linux,and Mac platforms](https://www.agner.org/optimize/optimizing_cpp.pdf)
+
 ### Python
 
 [Fundamentals of Python Programming](https://python.cs.southern.edu/pythonbook/pythonbook.pdf)
