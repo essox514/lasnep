@@ -342,7 +342,7 @@ Do you want to publish to a conference not listed below? Double check the confer
 
 [GLOBECOM](https://globecom2019.ieee-globecom.org/)
 
-[INFCOMM](https://infocom2020.ieee-infocom.org/)
+[INFOCOM](https://infocom2020.ieee-infocom.org/)
 
 [CoNext](https://conferences2.sigcomm.org/co-next/2019/#!/home)
 
