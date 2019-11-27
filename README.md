@@ -95,6 +95,8 @@ If you prefer to watch videos, the content of the course COS 461 - Computer Netw
 
 -Reference book [The Algorithm Design Manual](http://mimoza.marmara.edu.tr/~msakalli/cse706_12/SkienaTheAlgorithmDesignManual.pdf)
 
+- [Introduction to algorithms - Third Edition](http://kddlab.zjgsu.edu.cn:7200/students/lipengcheng/算法导论（英文第三版）.pdf)
+
 -[Design and Analysis of Algorithms CS161](http://web.stanford.edu/class/cs161/)
 
 -[CS166 Advanced Data Structure](http://web.stanford.edu/class/cs166/)
