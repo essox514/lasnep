@@ -450,5 +450,5 @@ In particular:
 - as an IDE (Python, C++, Lisp, VHDL, System Verilog, etc.)
 - C++ IDE: Follow this [tutorial](http://syamajala.github.io/c-ide.html), which helps you to configure and install [cmake-ide](https://github.com/atilaneves/cmake-ide)
 - Python IDE: Install and configure the [Elpy](https://github.com/jorgenschaefer/elpy) package
-- Git Integration. [Magit](https://magit.vc) is just mindblowing! See [this youtube tutorial/demo](https://www.youtube.com/watch?v=vQO7F2Q9DwA)
+- Git Integration. [Magit](https://magit.vc) is just mindblowing! See [this youtube tutorial/demo](https://www.youtube.com/watch?v=vQO7F2Q9DwA). Another source of documentation for the [basic feature and an overview](https://emacsair.me/2017/09/01/magit-walk-through/)
 
