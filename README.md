@@ -119,6 +119,8 @@ For a more complete list of C++ resources, check [Awesome CPP](https://awesomecp
 
 [Fundamentals of Python Programming](https://python.cs.southern.edu/pythonbook/pythonbook.pdf)
 
+[New Features of Python 3.8+](https://github.com/satwikkansal/wtfpython)
+
 ### RTL
 
 #### VHDL 
