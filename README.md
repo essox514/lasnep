@@ -172,6 +172,9 @@ Please note that NPUs were designed to offer higher processing flexibility over 
 
 ## FPGA
 
+### Reading List
+[ACM/SIGDA Technical Committee on FPGAs](http://hof.tcfpga.org/reading-list/)
+
 ### Blogs and News
 [Zipcpu: the blogs covers many classics topics related to FPGA: bus, AXIs, clock domain crossing, PLL, etc. (In Verilog)](https://zipcpu.com)
 [Front de libération des FPGAs (french)](http://www.fabienm.eu/flf/)
