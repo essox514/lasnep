@@ -179,6 +179,8 @@ Please note that NPUs were designed to offer higher processing flexibility over 
 [Zipcpu: the blogs covers many classics topics related to FPGA: bus, AXIs, clock domain crossing, PLL, etc. (In Verilog)](https://zipcpu.com)
 [Front de libération des FPGAs (french)](http://www.fabienm.eu/flf/)
 
+[Tutorials on multiple interfacing protocol (I2C, UART, etc.)](https://www.fpga4fun.com/)
+
 [Designing parallel computers and integrated systems-on-chips using FPGAs](http://fpga.org)
 
 [Clock Domain Crossing](http://www.sunburst-design.com/papers/CummingsSNUG2008Boston_CDC.pdf) a course about clock domain crossing for bus and signal.
