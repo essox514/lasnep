@@ -133,6 +133,10 @@ For a more complete list of C++ resources, check [Awesome CPP](https://awesomecp
 
 [Verilog, Formal Verification and Verilator Beginner's Tutorial](https://zipcpu.com/tutorial/). This tutorial has pointers to other tutorials.
 
+[Verilog Libary](https://github.com/aolofsson/oh)
+
+[System Verilog for VHDL users](https://dl.acm.org/doi/10.5555/968879.969213)
+
 #### Modern Hardware Description Languages 
 
 See the related projects section on [PyRTL](https://ucsbarchlab.github.io/PyRTL/). 
