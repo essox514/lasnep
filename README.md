@@ -433,7 +433,7 @@ We strongly advise you to take notes when you read a paper. The benefits are mul
 
 Books: [The Chicago Manual of Style](https://www.chicagomanualofstyle.org/home.html) is a good reference to write a thesis, or a journal paper. However, more specifically for journal papers [Writing Your Journal Article in Twelve Weeks, Second Edition](https://press.uchicago.edu/ucp/books/book/chicago/W/bo26985005.html) is a very good reference on this topic.
 
-(Give feedback/comments on a paper. Do and don't. This document also present a method for writting in groups.)[https://www.cs.tufts.edu/~nr/pubs/learn.pdf]
+[Give feedback/comments on a paper. Do and don't. This document also present a method for writting in groups.](https://www.cs.tufts.edu/~nr/pubs/learn.pdf)
 
 [Notes on the table presentation](https://inf.ethz.ch/personal/markusp/teaching/guides/guide-tables.pdf)
 
