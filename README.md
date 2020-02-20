@@ -132,13 +132,15 @@ For a more complete list of C++ resources, check [Awesome CPP](https://awesomecp
 
 [VHDL Language Reference Manual (VHDL 2008)](ftp://ftp.lpp.polytechnique.fr/jeandet/keep/sync/vhdl/4772740_IEEE-1076_Standard-VHDL-Language-Ref-Manual.pdf)
 
-#### Verilog 
+#### Verilog and System Verilog
 
 [Verilog, Formal Verification and Verilator Beginner's Tutorial](https://zipcpu.com/tutorial/). This tutorial has pointers to other tutorials.
 
 [Verilog Libary](https://github.com/aolofsson/oh)
 
 [System Verilog for VHDL users](https://dl.acm.org/doi/10.5555/968879.969213)
+
+[System Verilog STL](http://bjump.org/stl/)
 
 #### Modern Hardware Description Languages 
 
