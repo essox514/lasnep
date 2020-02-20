@@ -17,7 +17,7 @@ Table of Contents
          * [Python](#python)
          * [RTL](#rtl)
             * [VHDL](#vhdl)
-            * [Verilog](#verilog-and-system-verilog)
+            * [Verilog and SV](#verilog-and-system-verilog)
             * [Modern Hardware Description Languages](#modern-hardware-description-languages)
             * [Tools](#tools)
       * [Computer Architecture](#computer-architecture)
