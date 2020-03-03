@@ -136,6 +136,8 @@ For a more complete list of C++ resources, check [Awesome CPP](https://awesomecp
 
 [Verilog, Formal Verification and Verilator Beginner's Tutorial](https://zipcpu.com/tutorial/). This tutorial has pointers to other tutorials.
 
+[Design elements in Verilog (targeting FPGAs)](http://fpgacpu.ca/fpga/)
+
 [Verilog Libary](https://github.com/aolofsson/oh)
 
 [System Verilog for VHDL users](https://dl.acm.org/doi/10.5555/968879.969213)
@@ -180,6 +182,11 @@ An old (may be outdated) reference to the design of network processors (NPU). [H
 Please note that NPUs were designed to offer higher processing flexibility over P4-programable data plane (see article below Forwarding Metamorphosis). Hence, NPUs could barely process 200/400 Gbps, while PISA was shown to process Tbps. However, the PISA processing capabilities are restrained over a NPU. PISA is not tailored to process more than 512 bytes of the packet header (no payload processing allowed). 
 
 ## FPGA
+
+### Course 
+
+[Reconfigurable Logic: Technology, Architecture and Applications](https://users.ece.cmu.edu/~jhoe/doku/doku.php?id=18-643_reconfigurable_logic)
+
 
 ### Reading List
 [ACM/SIGDA Technical Committee on FPGAs](http://hof.tcfpga.org/reading-list/)
