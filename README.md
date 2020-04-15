@@ -456,6 +456,8 @@ We strongly encourage to write a scientific article using LateX. If you are note
 
 [Presentation guidelines](https://users.ece.cmu.edu/~pueschel/teaching/guides/guide-presentations.pdf)
 
+[Beamer Presentation - Having fun!](http://web.mit.edu/rsi/www/pdfs/beamer-tutorial.pdf)
+
 ## How to Speak
 
 [Talk by Patrick Winston - MIT](https://ocw.mit.edu/resources/res-tll-005-how-to-speak-january-iap-2018/how-to-speak/)
