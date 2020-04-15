@@ -458,6 +458,10 @@ We strongly encourage to write a scientific article using LateX. If you are note
 
 [Beamer Presentation - Having fun!](http://web.mit.edu/rsi/www/pdfs/beamer-tutorial.pdf)
 
+[Beamer Cheat Sheet](http://www.cpt.univ-mrs.fr/~masson/latex/Beamer-appearance-cheat-sheet.pdf)
+
+[TikZ tips when drawing paths](https://stuff.mit.edu/afs/athena/contrib/tex-contrib/beamer/pgf-1.01/doc/generic/pgf/version-for-tex4ht/en/pgfmanualse9.html)
+
 ## How to Speak
 
 [Talk by Patrick Winston - MIT](https://ocw.mit.edu/resources/res-tll-005-how-to-speak-january-iap-2018/how-to-speak/)
