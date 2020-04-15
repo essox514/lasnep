@@ -456,6 +456,10 @@ We strongly encourage to write a scientific article using LateX. If you are note
 
 [Presentation guidelines](https://users.ece.cmu.edu/~pueschel/teaching/guides/guide-presentations.pdf)
 
+## How to Speak
+
+[Talk by Patrick Winston - MIT](https://ocw.mit.edu/resources/res-tll-005-how-to-speak-january-iap-2018/how-to-speak/)
+
 ## Presenting your research on your website
 
 Use one of the tow following framework [Solo](http://chibicode.github.io/solo/) or [Duo](https://chibicode.github.io/duo/). Many other frameworks are available on Github (for your team, for blogging, etc.).
