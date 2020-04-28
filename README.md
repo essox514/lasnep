@@ -58,6 +58,10 @@ Table of Contents
 
 # Courses and Books 
 
+## Git 
+
+[Learning Git - Interactive schemes.](https://learngitbranching.js.org)
+
 ## Networking
 
 Introduction Course on [Computer Networks CSCI-UA.0480-009](https://cs.nyu.edu/courses/fall17/CSCI-UA.0480-009/)
@@ -469,6 +473,8 @@ We strongly encourage to write a scientific article using LateX. If you are note
 ## Presenting your research on your website
 
 Use one of the tow following framework [Solo](http://chibicode.github.io/solo/) or [Duo](https://chibicode.github.io/duo/). Many other frameworks are available on Github (for your team, for blogging, etc.).
+
+
 
 ## Religion - Emacs
 Emacs is an editor that is highly recommanded to use as everything can be integrated within emacs (from note taking, latex writting, developpement, etc.). The learning curve is *STEEP* (though), but it is worth it!
