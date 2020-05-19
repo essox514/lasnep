@@ -58,6 +58,10 @@ Table of Contents
 
 # Courses and Books 
 
+## Linux Tools
+
+  [Linux Productivity Tools](https://www.usenix.org/sites/default/files/conference/protected-files/lisa19_maheshwari.pdf)
+
 ## Git 
 
 [Learning Git - Interactive schemes.](https://learngitbranching.js.org)
