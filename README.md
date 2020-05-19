@@ -7,6 +7,8 @@ Table of Contents
 
    * [High Speed and Programmable Packet Processing](#high-speed-and-programmable-packet-processing)
    * [Courses and Books](#courses-and-books)
+      * [Git](#git)
+      * [Linux Tools](#linux-tools)
       * [Networking](#networking)
          * [5G](#5g)
          * [Blogs and news](#blogs-and-news)
